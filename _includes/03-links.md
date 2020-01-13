@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub](http://github.com)
+[Alexoah GitHub profile](http://github.com/alexoah)
+[Alexoah GitHub page](http://alexoah.github.io)
